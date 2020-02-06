@@ -415,7 +415,7 @@ public void readData(SelectionKey selectedKey) throws IOException {
 
  尚硅谷韩顺平netty核心技术及源码剖析 
 
-## 欢迎关注公众号一起讨论
+## 加关注不迷路(微信公众号)
 
 ![微信公众号](img/微信公众号.jpg)
 
