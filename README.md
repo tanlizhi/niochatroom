@@ -414,8 +414,3 @@ public void readData(SelectionKey selectedKey) throws IOException {
  https://www.cnblogs.com/panchanggui/p/9518735.html 
 
  尚硅谷韩顺平netty核心技术及源码剖析 
-
-## 加关注不迷路(微信公众号)
-
-![微信公众号](img/微信公众号.jpg)
-
